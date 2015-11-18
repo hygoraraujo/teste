@@ -22,6 +22,8 @@ public class Soma {
 		System.out.print("A soma dos numeros e: "+ soma);
 		
 		scan.close();
+		
+		//essa porra não funciona
 	}
 
 }
